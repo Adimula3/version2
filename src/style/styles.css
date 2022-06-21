@@ -1,0 +1,70 @@
+
+.navbar {
+    background: #efefef;
+}
+.navbar-brand {
+    margin-left: 80px;
+    color: #282c34;
+    padding: 20px;
+}
+.navbarNav {
+  margin-right: 30%;
+}
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.nav-item {
+    padding-left: 30px;
+    padding-right: 30px;
+    list-style-type: none;
+}
+.nav-link {
+    color: #282c34;
+}
+
+.hero {
+    margin-top: 60px;
+}
+.hero-text {
+    text-align: left;
+}
+.hero-text h2 {
+    font-size: 70px;
+}
+.hero-text p {
+    font-size: 20px;
+}
+.hero-text button {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    background: #fff;
+    color: #282c34;
+}
+.mini-hero {
+    text-align: left;
+}
+.image {
+  margin: 10px;
+}
+
+.products {
+    margin-top: 60px;
+}
+.products h2 {
+    text-align: left;
+    font-size: 40px;
+}
+.pro-texts {
+    margin-top: 40px;
+    text-align: left;
+    margin-left: 50px;
+}
+.pro-texts h3 {
+
+}
+.image2 {
+    position: relative;
+}
+
