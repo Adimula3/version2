@@ -16,9 +16,9 @@ function Hero () {
                            <button type="button" className="btn btn-dark">Buy now</button>
                        </div>
                        <div className="mini-hero">
-                                   <img className="image" src={require('../assets/edho.jpeg')} height="180" width="180"/>
-                                   <img className="image" src={require('../assets/alisha.jpeg')}  height="180" width="180"/>
-                                   <img className="image" src={require('../assets/billy.jpeg')}  height="180" width="180"/>
+                                   <img className="image" src={require('../assets/edho.jpeg')} height="180" width="180" alt=""/>
+                                   <img className="image" src={require('../assets/alisha.jpeg')}  height="180" width="180" alt=""/>
+                                   <img className="image" src={require('../assets/billy.jpeg')}  height="180" width="180" alt=""/>
                        </div>
                    </Col>
                </Row>
